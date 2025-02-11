@@ -46,6 +46,7 @@ bare metal instance
 bare metal machine
 bare metal media
 bare metal node
+bare metal network
 bare metal provisioning
 bare metal server
 bare metal worker
@@ -231,6 +232,7 @@ JavaBean
 joblog
 jobstream
 judgement
+k8s
 keep in mind
 kernelspace
 kick off
